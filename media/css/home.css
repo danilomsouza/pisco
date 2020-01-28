@@ -1,0 +1,10 @@
+.toast {
+  opacity: 1;
+  margin: 2% auto 0 auto;
+}
+.toast-home-text {
+  font-size: 3.5ch;
+}
+.toast-home-value {
+  font-size: 10ch;
+}
